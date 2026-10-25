@@ -1,0 +1,10 @@
+hic_file	PDCoV_in_Virion_merge.hic
+fasta_file	KT336560_md.fasta
+seq_id	KT336560.1
+chrom	HS1
+length	25420
+low_res	15
+mid_res	10
+high_res	5
+window	5000
+overlap	3000

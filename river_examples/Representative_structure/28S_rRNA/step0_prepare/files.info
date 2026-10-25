@@ -1,0 +1,8 @@
+hic_file	28S_rRNA_merge_RICseq.hic
+fasta_file	28S_rRNA.fasta
+seq_id	NR_046235.3
+chrom	HS1
+length	5070
+low_res	10
+mid_res	5
+high_res	1

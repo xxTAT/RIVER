@@ -1,0 +1,8 @@
+hic_file	yeast_25SrRNA.hic
+fasta_file	S288C_YNCL0021C_RDN25-2_genomic.fsa
+seq_id	RDN25-2
+chrom	HS1
+length	3396
+low_res	10
+mid_res	5
+high_res	1

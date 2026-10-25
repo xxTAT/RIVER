@@ -1,0 +1,10 @@
+hic_file	SARSCoV2_VERO_RIC_merge.hic
+fasta_file	NC_045512_2_md.fasta
+seq_id	NC_045512.2
+chrom	HS1
+length	29903
+low_res	15
+mid_res	10
+high_res	5
+window	5000
+overlap	3000

@@ -1,0 +1,6 @@
+# Usage
+
+``` bash
+python step3_optimal_structure_predict_all_interaction.py partition_file_id.txt 28S_rRNA_merge_RICseq_KR_10_10_remake5_merge_KR_5_5_OEmask_fill_diagonal_filter_gaussian.bedpe 28S_rRNA_merge_RICseq_KR_10.matrix 28S_rRNA_merge_RICseq_KR_5.matrix 28S_rRNA_merge_RICseq_KR_1.matrix 5070 HS1 28S_rRNA.fasta NR_046235.3
+```
+
